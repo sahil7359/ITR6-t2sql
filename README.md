@@ -1,4 +1,4 @@
-# Text-to-SQL Project
+# Text-to-SQL ITR6 Project
 
 ## Overview  
 **Text-to-SQL** is a project designed to bridge the gap between natural language and data query systems. It enables non-technical users to interact with databases intuitively by converting natural language input into SQL queries. This project was developed as part of my academic pursuits under the guidance of **Mr. Kuldeep Jolly** and **Mr. Himanshu Pachori** at KIIT-DU, Bhubaneswar.
